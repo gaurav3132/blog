@@ -1,0 +1,9 @@
+<?php
+    $config=[
+        'db_host'=>'localhost',
+        'db_name'=>'blogpost',
+        'db_user'=>'root',
+        'db_pass'=>'',
+        'base_url'=>'http://localhost/blog/',
+        'default_controller'=>'dashboard',
+    ];

@@ -1,0 +1,10 @@
+body{
+    background-color: #EAEAEA;
+}
+
+.message-holder{
+    position: fixed;
+    bottom: 0;
+    left:0;
+    max-width: 100%;
+}
